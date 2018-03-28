@@ -1,0 +1,6 @@
+D:\GitHub\NumberGame\bin\Release\NumberGame.exe.config
+D:\GitHub\NumberGame\bin\Release\NumberGame.exe
+D:\GitHub\NumberGame\bin\Release\NumberGame.pdb
+D:\GitHub\NumberGame\obj\Release\NumberGame.csprojResolveAssemblyReference.cache
+D:\GitHub\NumberGame\obj\Release\NumberGame.exe
+D:\GitHub\NumberGame\obj\Release\NumberGame.pdb
