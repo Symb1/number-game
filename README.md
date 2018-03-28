@@ -1,2 +1,3 @@
-# number-game
+number-game
+
 Simple number guessing game
